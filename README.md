@@ -1,3 +1,3 @@
 # Hello-World
-;My first git repositoy
+;This is my first git repositoy
 I participate in a Coursera course
